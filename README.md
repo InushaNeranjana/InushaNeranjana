@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InushaNeranjana
+- 👋 Hi, I’m @Inusha Neranjana
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Devoloping
 - 💞️ I’m looking to collaborate on ...
